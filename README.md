@@ -1,4 +1,4 @@
-（除了这段文字以外，其他均由copilot生成，项目名也是，而且copilot没列全，请去查看[worker.js](https://github.com/fgfobdpqjs/edge-mirror-proxy/blob/main/worker.js)的注释）
+（本项目已报废，请不要使用！）
 
 # Cloudflare Worker: 路径镜像与域名/Cookie 重写
 
@@ -33,7 +33,7 @@
 - README.md — 本说明文档（包括配置说明、快速开始、测试与注意事项）
 - LICENSE — 项目许可文件（MIT License）
 
-配置片段示例（你常用的展示方式）
+配置片段示例
 --------------------------------
 在 worker.js 顶部你会看到类似下面的配置片段。下面先展示原样代码，然后解释如何配置与它们的作用。
 
